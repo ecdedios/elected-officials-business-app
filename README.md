@@ -18,9 +18,9 @@
 
 Some technologies used:
 
-- tkinter
-- senzing
-- openai
+- python-dotenv
+- requests
+- pandas
 
 To see the project in action, open and run the notebooks.
 
